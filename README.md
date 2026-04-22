@@ -16,6 +16,12 @@ A Claude Code plugin marketplace bundling Justin Beadle's custom persona skills 
 
 **Total:** 47 skills across 7 plugins.
 
+## For colleagues on individual Claude.ai accounts (no Claude Code)
+
+If your colleagues use only claude.ai (not Claude Code), they can upload each skill as a ZIP through **Settings → Capabilities → Skills → Upload skill**.
+
+Download **`elevate-skills-bundle.zip`** from the latest release, unzip it, and follow **`cowork-import-bundle/START-HERE.md`** for beginner-friendly step-by-step instructions.
+
 ## Install (local test)
 
 ```
