@@ -64,6 +64,15 @@
       "tags": ["medical-ethics", "healthcare", "canada", "personas"]
     },
     {
+      "name": "dataanalysis-panel",
+      "source": "./plugins/dataanalysis-panel",
+      "description": "Data analysis and ML research personas (Bengio, Goodfellow, Hinton, LeCun, Li, Ng, O'Neil, Rudin, Thrun)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["data-science", "machine-learning", "ai", "personas"]
+    },
+    {
       "name": "utilities",
       "source": "./plugins/utilities",
       "description": "Standalone skills: Gail (personal finance coach) and Humanize (de-AI writing editor)",

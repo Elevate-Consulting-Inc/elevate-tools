@@ -12,9 +12,10 @@ A Claude Code plugin marketplace bundling Justin Beadle's custom persona skills 
 | `tiger-team` | 6 | Security / reliability personas |
 | `social-services-panel` | 9 | Canadian social services sector personas |
 | `medical-ethics-panel` | 6 | BC/Alberta medical ethics personas |
+| `dataanalysis-panel` | 9 | Data analysis & ML research personas |
 | `utilities` | 2 | Gail (finance) + Humanize (writing) |
 
-**Total:** 44 skills across 7 plugins.
+**Total:** 53 skills across 8 plugins.
 
 ## Install (local test)
 

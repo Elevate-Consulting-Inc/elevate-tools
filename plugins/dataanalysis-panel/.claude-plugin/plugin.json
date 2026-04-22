@@ -1,0 +1,7 @@
+{
+  "name": "dataanalysis-panel",
+  "description": "Data analysis and ML research personas: Bengio, Goodfellow, Hinton, LeCun, Li, Ng, O'Neil, Rudin, Thrun",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}
