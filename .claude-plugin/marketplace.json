@@ -10,15 +10,6 @@
   },
   "plugins": [
     {
-      "name": "elevate-leadership",
-      "source": "./plugins/elevate-leadership",
-      "description": "Elevate Consulting leadership team personas (Hayley, Jae, Lisa, Morgan, Randeep, Rob)",
-      "version": "0.1.0",
-      "author": { "name": "Justin Beadle" },
-      "category": "personas",
-      "tags": ["elevate", "leadership", "personas"]
-    },
-    {
       "name": "devops-team",
       "source": "./plugins/devops-team",
       "description": "Product and engineering personas (creative director, developer, platform engineer, PO, UX expert, UX researcher)",

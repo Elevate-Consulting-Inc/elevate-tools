@@ -6,7 +6,6 @@ A Claude Code plugin marketplace bundling Justin Beadle's custom persona skills 
 
 | Plugin | Skills | Purpose |
 |---|---|---|
-| `elevate-leadership` | 6 | Elevate Consulting leadership team personas |
 | `devops-team` | 6 | Product & engineering personas |
 | `strategy-team` | 9 | Strategy advisory personas |
 | `tiger-team` | 6 | Security / reliability personas |
@@ -15,7 +14,7 @@ A Claude Code plugin marketplace bundling Justin Beadle's custom persona skills 
 | `dataanalysis-panel` | 9 | Data analysis & ML research personas |
 | `utilities` | 2 | Gail (finance) + Humanize (writing) |
 
-**Total:** 53 skills across 8 plugins.
+**Total:** 47 skills across 7 plugins.
 
 ## Install (local test)
 
