@@ -1,0 +1,7 @@
+{
+  "name": "elevate-leadership",
+  "description": "Elevate Consulting leadership team personas: Hayley, Jae, Lisa, Morgan, Randeep, Rob",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}

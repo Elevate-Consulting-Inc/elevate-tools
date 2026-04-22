@@ -1,0 +1,7 @@
+{
+  "name": "utilities",
+  "description": "Standalone skills: Gail (personal finance coach) and Humanize (de-AI writing editor)",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}

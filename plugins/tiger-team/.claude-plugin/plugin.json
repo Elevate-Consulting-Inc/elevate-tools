@@ -1,0 +1,7 @@
+{
+  "name": "tiger-team",
+  "description": "Security and reliability tiger team personas: AppSec, chaos engineering, memory, pentest, performance, QA",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}

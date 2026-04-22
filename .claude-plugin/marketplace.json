@@ -1,0 +1,76 @@
+{
+  "name": "elevate-tools",
+  "owner": {
+    "name": "Justin Beadle",
+    "email": "justin@elevateconsulting.ca"
+  },
+  "metadata": {
+    "description": "Elevate Consulting Claude Code plugins: persona skills and utilities",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "elevate-leadership",
+      "source": "./plugins/elevate-leadership",
+      "description": "Elevate Consulting leadership team personas (Hayley, Jae, Lisa, Morgan, Randeep, Rob)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["elevate", "leadership", "personas"]
+    },
+    {
+      "name": "devops-team",
+      "source": "./plugins/devops-team",
+      "description": "Product and engineering personas (creative director, developer, platform engineer, PO, UX expert, UX researcher)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["devops", "product", "engineering", "ux", "personas"]
+    },
+    {
+      "name": "strategy-team",
+      "source": "./plugins/strategy-team",
+      "description": "Strategy advisory personas (architect, change, competitive, engagement, finance, integrity, intelligence, monitoring, operationalization)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["strategy", "advisory", "personas"]
+    },
+    {
+      "name": "tiger-team",
+      "source": "./plugins/tiger-team",
+      "description": "Security and reliability tiger team personas (AppSec, chaos, memory, pentest, performance, QA)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["security", "reliability", "performance", "personas"]
+    },
+    {
+      "name": "social-services-panel",
+      "source": "./plugins/social-services-panel",
+      "description": "Canadian social services sector personas (board, clinical, frontline, outreach, law enforcement, policy)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["social-services", "nonprofit", "canada", "personas"]
+    },
+    {
+      "name": "medical-ethics-panel",
+      "source": "./plugins/medical-ethics-panel",
+      "description": "BC/Alberta medical ethics personas (acute care, continuing care, EMS, Indigenous health, public health, rural)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "personas",
+      "tags": ["medical-ethics", "healthcare", "canada", "personas"]
+    },
+    {
+      "name": "utilities",
+      "source": "./plugins/utilities",
+      "description": "Standalone skills: Gail (personal finance coach) and Humanize (de-AI writing editor)",
+      "version": "0.1.0",
+      "author": { "name": "Justin Beadle" },
+      "category": "utilities",
+      "tags": ["finance", "writing", "utilities"]
+    }
+  ]
+}

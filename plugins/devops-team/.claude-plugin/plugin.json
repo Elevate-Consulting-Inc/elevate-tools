@@ -1,0 +1,7 @@
+{
+  "name": "devops-team",
+  "description": "Product and engineering personas: creative director, developer, platform engineer, product owner, UX expert, UX researcher",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}

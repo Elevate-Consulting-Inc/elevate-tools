@@ -1,0 +1,7 @@
+{
+  "name": "medical-ethics-panel",
+  "description": "BC/Alberta medical ethics personas: acute care, continuing care, EMS, Indigenous health, public health, rural medicine",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "strategy-team",
+  "description": "Strategy advisory personas spanning design, change, competition, engagement, finance, integrity, intelligence, monitoring, and operationalization",
+  "version": "0.1.0",
+  "author": { "name": "Justin Beadle", "email": "justin@elevateconsulting.ca" },
+  "license": "MIT"
+}
